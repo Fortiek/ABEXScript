@@ -1,3 +1,6 @@
+/**************************************
+Does it work?
+**************************************/
 function onOpen() { //function to run on startup that generates a menu item to automate the task
   
   //Try to get a button on the nav bar to automate the process on a named sheet
